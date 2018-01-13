@@ -283,6 +283,7 @@ SEED | https://seed.co/ |
 [Sensu](/company-profiles/sensu.md) | https://sensuapp.org | United States and Canada
 [Server Density](/company-profiles/server-density.md) | https://www.serverdensity.com | Europe
 SignEasy | http://getsigneasy.com |
+Sharoo | [https://www.sharoo.com/](https://www.sharoo.com/jobs/) | UTC-1 to UTC+3
 [simplabs](/company-profiles/simplabs.md) | http://simplabs.com/ | Europe and Americas
 [Simple](/company-profiles/simple.md) | https://www.simple.com/ | United States
 [SimpleTexting](/company-profiles/simpletexting.md) | https://simpletexting.com/ | Worldwide
